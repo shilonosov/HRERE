@@ -1,6 +1,6 @@
 
 # ---------------------- PATH ----------------------
-ROOT_PATH = "."
+ROOT_PATH = "./HRERE"
 DATA_PATH = "%s/data" % ROOT_PATH
 KG_PATH = "%s/fb3m" % ROOT_PATH
 
